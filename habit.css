@@ -1,0 +1,30 @@
+h1{color:red;
+	
+}
+
+p.debutante{
+	color:red;
+
+	padding: 15px
+}
+
+h2{color:blue;
+}
+
+h3{color: #5A339D;
+
+	background-color:#FF358B 
+}
+
+body{
+	background-color:#DBEC5E
+}
+
+h2.petit{
+	font-size: 100px
+	padding-top:100px;
+}
+
+a{color:#E21C44;
+	opacity:0.7
+}
